@@ -1,66 +1,108 @@
-🌴 RiskApp Caribe
+# 🌊 Lumaya
 
-Este repositorio es un avance de la pagina web de mi proyecto personal Risk Co
-Prevención de riesgos en la región Caribe Colombiana
+Plataforma móvil colaborativa para conocer el estado real de las playas en tiempo real.
 
-📱 Descripción
+---
 
-RiskApp Caribe es una aplicación móvil en desarrollo construida con SwiftUI, enfocada en la prevención de riesgos en la región Caribe colombiana.
+## 📱 Descripción
 
-La app funciona como una especie de red social, donde los usuarios pueden compartir, visualizar y alertar sobre situaciones de riesgo en tiempo real, fomentando una comunidad informada y preparada.
+**Lumaya** es una aplicación móvil en desarrollo enfocada en mejorar la experiencia de los turistas en el Caribe colombiano.
 
-🎯 Objetivo
+Permite a los usuarios conocer cómo se encuentra una playa antes de visitarla, mediante información compartida por la comunidad: estado del mar, condiciones climáticas, nivel de ocupación y costos reales de transporte.
 
-El objetivo principal es:
+La plataforma funciona como una red colaborativa en tiempo real, donde los viajeros ayudan a otros a tomar mejores decisiones.
 
-Informar a la comunidad sobre riesgos potenciales
-Promover la prevención y la cultura de seguridad
-Facilitar la comunicación entre usuarios en situaciones críticas
-Centralizar reportes ciudadanos en una sola plataforma
-🚧 Estado del Proyecto
+---
 
-🔨 En desarrollo
+## 🚀 Estado actual del proyecto
 
-Actualmente se cuenta con:
+🔨 En desarrollo activo
 
-Interfaz inicial desarrollada en SwiftUI
-Estructura base de la aplicación
-Diseño preliminar tipo red social
+Actualmente el proyecto cuenta con:
 
-Próximamente:
+### 📲 Aplicación móvil (principal)
 
-Sistema de autenticación de usuarios
-Publicación de reportes
-Geolocalización de riesgos
-Notificaciones en tiempo real
-Backend y base de datos
-🛠️ Tecnologías utilizadas
-SwiftUI – Desarrollo de la interfaz
-Xcode – Entorno de desarrollo
-(Futuro) Firebase / Backend propio
+* Desarrollo en **SwiftUI (Xcode)**
+* Avances en interfaz de usuario
+* Estructura base de la app
+* Diseño inicial tipo red social
 
-🌎 Enfoque regional
+### 🌐 Plataforma web (soporte)
 
-Esta aplicación está diseñada específicamente para la región Caribe colombiana, teniendo en cuenta:
+* Landing page desarrollada en React
+* Diseño moderno con animaciones
+* Presentación del producto y concepto
 
-Condiciones climáticas (inundaciones, huracanes, calor extremo)
-Riesgos urbanos y sociales
-Necesidades de comunidades locales
-🤝 Contribución
+### ☁️ Backend
 
-Por ahora, el proyecto es desarrollado de forma individual.
-Más adelante se considerará abrir contribuciones.
+* Integración inicial con Firebase
+* Base de datos en tiempo real (Firestore)
 
-📌 Autor
+---
 
-Oscar Díaz
+## 🎯 Objetivo
+
+* 🌊 Informar el estado actual de playas en tiempo real
+* 📊 Mejorar la toma de decisiones de turistas
+* 👥 Crear una comunidad colaborativa
+* 💸 Mostrar costos reales de transporte
+* ⚠️ Alertar sobre condiciones y riesgos
+
+---
+
+## 🛠️ Tecnologías
+
+### App móvil (core del proyecto)
+
+* SwiftUI
+* Xcode
+
+### Web
+
+* React
+* Vite
+
+### Backend
+
+* Firebase (Firestore)
+
+---
+
+## 🌎 Enfoque
+
+Inicialmente centrado en el Caribe colombiano, considerando:
+
+* Alta actividad turística
+* Cambios climáticos constantes
+* Falta de información actualizada
+* Variabilidad en costos
+
+---
+
+## 💡 Visión
+
+Convertirse en la aplicación líder en información turística en tiempo real en Colombia.
+
+---
+
+## 🚀 Próximos pasos
+
+* Sistema de reportes en tiempo real
+* Mapa interactivo de playas
+* Autenticación de usuarios
+* Integración con APIs de clima
+* Publicación en App Store
+
+---
+
+## 📌 Autor
+
+**Oscar Díaz**
 Ingeniero Electrónico en formación
-Interesado en desarrollo de software y soluciones tecnológicas
+Enfocado en desarrollo de software y tecnología
 
-🚀 Futuro del proyecto
-Convertirse en una plataforma activa de reportes ciudadanos
-Integración con entidades locales
-Expansión a otras regiones de Colombia
-📄 Licencia
+---
 
-Este proyecto está en desarrollo y aún no cuenta con una licencia definida.
+## 📄 Licencia
+
+Proyecto en desarrollo, sin licencia definida por el momento.
